@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Set your Telegram Bot Token directly (Replace with your actual token)
-TELEGRAM_BOT_TOKEN = "7657512273:AAGIhNELTklxVMcOT8XeSEq4Upmpw87Xv8c"
+TELEGRAM_BOT_TOKEN = "Replace with your actual token"
 
 if not TELEGRAM_BOT_TOKEN:
     raise ValueError("❌ TELEGRAM_BOT_TOKEN is missing! Please set it correctly.")
