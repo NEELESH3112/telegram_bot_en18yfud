@@ -15,7 +15,7 @@ This project is a Telegram bot powered by TinyLlama, an AI model for generating 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/AI-Telegram-Bot.git
+   git clone https://github.com/NEELESH3112/telegram_bot_en18yfud.git
    ```
 
 2. Install the required dependencies:
